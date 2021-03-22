@@ -14,7 +14,7 @@ module OneLogin
         GET_RATE_URL = "https://api.%s.onelogin.com/auth/rate_limit"
 
         # User URLs
-        GET_USERS_URL = "https://api.%s.onelogin.com/api/1/users"
+        GET_USERS_URL = "https://api.%s.onelogin.com/api/2/users"
         GET_USER_URL = "https://api.%s.onelogin.com/api/1/users/%s"
         GET_APPS_FOR_USER_URL = "https://api.%s.onelogin.com/api/1/users/%s/apps"
         GET_ROLES_FOR_USER_URL = "https://api.%s.onelogin.com/api/1/users/%s/roles"
